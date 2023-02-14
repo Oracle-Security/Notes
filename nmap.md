@@ -80,25 +80,3 @@ nmap top 1000
 ```php
 nmap -sV -sC -O -T4 -n -Pn -iL scope.txt -oA top1000
 ```
-
-Easy Lab evasion
-
-```bash
-nmap --disable-arp-ping -sS -O -D RND:10 
-```
-
-Medium lab evasion
-
-```bash
-sudo nmap 10.129.2.48 --disable-arp-ping -p53 -sU -Pn -D RND:5 -sV --script dns-nsid --packet-trace --version-intensity 9 -T2 --source-port 53
-```
-
-Hard lab evasion
-
-```bash
-sudo nmap 10.129.42.194 --disable-arp-ping -p50000 -sS -Pn -D RND:5 --packet-trace --source-port 53
-
-sudo ncat -nv --source-port 53 10.129.42.194 50000
-Ncat: Version 7.92 ( https://nmap.org/ncat )
-Ncat: Connected to 10.129.42.194:50000.
-```
