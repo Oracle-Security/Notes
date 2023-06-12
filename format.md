@@ -1,9 +1,6 @@
 
 >[!COMMAND]
 `ls` is a command on bash. A sample output is the following. 
->```bash 
-ls 
-Desktop   Downloads   Music   Pictures   Public   Templates   Videos
 
 
 Aliases: `summary`, `tldr`
