@@ -1,4 +1,20 @@
 
+> [!note]
+> ```md
+> > [!note]
+> > Lorem ipsum dolor sit amet
+> ```
+
+---
+
+> [!abstract]
+> ```md
+> > [!abstract]
+> > Lorem ipsum dolor sit amet
+> ```
+
+Aliases: `summary`, `tldr`
+
 >[!COMMAND]
 `ls` is a command on bash. A sample output is the following. 
 
