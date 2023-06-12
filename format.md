@@ -1,10 +1,11 @@
 
 > [!note]
+> a
 
 ---
 
 > [!abstract]
-
+> a
 
 Aliases: `summary`, `tldr`
 
@@ -16,64 +17,69 @@ Aliases: `summary`, `tldr`
 
 ---
 
-> [!info]-
+> [!info]
+> a
+> 
+---
+
+> [!todo]
+> a
 
 ---
 
-> [!todo]-
-
-
----
-
-> [!tip]-
-
+> [!tip]
+> a
 
 Aliases: `hint`, `important`
 
 ---
 
-> [!success]-
-
+> [!success]
+> a
 
 Aliases: `check`, `done`
 
 ---
 
-> [!question]-
-
+> [!question]
+> a
 
 Aliases: `help`, `faq`
 
 ---
 
-> [!warning]-
+> [!warning]
+> a
 
 Aliases: `caution`, `attention`
 
 ---
 
-> [!failure]-
-
+> [!failure]
+> a
 
 Aliases: `fail`, `missing`
 
 ---
 
-> [!danger]-
+> [!danger]
+> a
 
 Alias: `error`
 
 ---
 
-> [!bug]-
+> [!bug]
+> a
 
 ---
 
-> [!example]-
-
+> [!example]
+> a
 
 ---
 
-> [!quote]-
+> [!quote]
+> a
 
 Alias: `cite`
